@@ -7,7 +7,7 @@ It is based on the new Jetstream scaffolding, using the Intertia stack (<a href=
 
 Clone the repo
 ```
-git clone https://github.com/garel/simple-shop.git
+git clone https://github.com/it-werxdotca/simple-shop.git
 ```
 
 Install php dependencies
